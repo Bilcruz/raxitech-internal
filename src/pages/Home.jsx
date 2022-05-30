@@ -2831,13 +2831,42 @@ export default function Home() {
       nobis ipsa totam ad enim vitae, necessitatibus voluptas vero iusto
       quam laborum animi inventore beatae repellendus odio delectus.
       Odio necessitatibus, libero adipisci nam pariatur consectetur
-      deserunt consequuntur ea ratione amet.
+      deserunt consequuntur ea ratione amet
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil eos
       nobis ipsa totam ad enim vitae, necessitatibus voluptas vero iusto
       quam laborum animi inventore beatae repellendus odio delectus.
       Odio necessitatibus, libero adipisci nam pariatur consectetur
       deserunt consequuntur ea ratione amet
       
+      
+        </p>
+        
+      <button class="bg-blue-900 text-white font-normal  p-2 border border-blue-900 mt-5">
+        Read More
+      </button>
+      </div>
+      
+      
+     
+      </div>
+      <div className="flex flex-col  bg-blue-200 ">
+      <div>
+       <img className="w-40 px-5" src= {picture} ></img> 
+      </div>
+      <div className="text-blue-900 p-5 text-2xl font-bold">IT Consultancy</div>
+      <div className=" p-5 ">
+      <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil eos
+      nobis ipsa totam ad enim vitae, necessitatibus voluptas vero iusto
+      quam laborum animi inventore beatae repellendus odio delectus.
+      Odio necessitatibus, libero adipisci nam pariatur consectetur
+      deserunt consequuntur ea ratione amet.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil eos
+      nobis ipsa totam ad enim vitae, necessitatibus voluptas vero iusto
+      quam laborum animi inventore beatae repellendus odio delectus.
+      Odio necessitatibus, libero adipisci nam pariatur consectetur
+      deserunt consequuntur ea ratione amet
+
       
         </p>
         
@@ -2905,36 +2934,15 @@ export default function Home() {
       
      
       </div>
-      <div className="flex flex-col  bg-blue-200 ">
-      <div>
-       <img className="w-40 px-5" src= {picture} ></img> 
-      </div>
-      <div className="text-blue-900 p-5 text-2xl font-bold">IT Consultancy</div>
-      <div className=" p-5 ">
-      <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil eos
-      nobis ipsa totam ad enim vitae, necessitatibus voluptas vero iusto
-      quam laborum animi inventore beatae repellendus odio delectus.
-      Odio necessitatibus, libero adipisci nam pariatur consectetur
-      deserunt consequuntur ea ratione amet.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil eos
-      nobis ipsa totam ad enim vitae, necessitatibus voluptas vero iusto
-      quam laborum animi inventore beatae repellendus odio delectus.
-      Odio necessitatibus, libero adipisci nam pariatur consectetur
-      deserunt consequuntur ea ratione amet
-      
-        </p>
-        
-      <button class="bg-blue-900 text-white font-normal  p-2 border border-blue-900 mt-5">
-        Read More
-      </button>
       </div>
       
+
+    
       
      
-      </div>
-      </div>
       
+
+     
 
       
 
