@@ -1,0 +1,22 @@
+body {
+  /* background-image: url(../assets/images/scattered-forcefields.svg); */
+  /* background-repeat:inherit */
+  /* background-size: cover; */
+  font-family: "Poppins";
+  /* font-size: 17px; */
+  /* , "Segoe UI", "Roboto", "Helvetica Neue", Arial,
+    "Noto Sans", "Liberation Sans", sans-serif */
+}
+
+.swipe {
+  background-image: url(../assets/images/flat-mountains.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer {
+  background-image: url(../assets/images/slanted-gradient.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* transform: rotate(30deg); */
+}
